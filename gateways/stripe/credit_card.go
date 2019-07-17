@@ -3,7 +3,7 @@ package stripe
 import (
 	"fmt"
 
-	"github.com/qor/gomerchant"
+	"github.com/kisrobot/gomerchant"
 	stripe "github.com/stripe/stripe-go"
 	"github.com/stripe/stripe-go/card"
 )

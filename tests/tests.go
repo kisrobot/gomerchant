@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/qor/gomerchant"
+	"github.com/kisrobot/gomerchant"
 )
 
 type TestSuite struct {

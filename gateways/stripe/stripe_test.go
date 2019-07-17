@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/jinzhu/configor"
-	"github.com/qor/gomerchant/gateways/stripe"
-	"github.com/qor/gomerchant/tests"
+	"github.com/kisrobot/gomerchant/gateways/stripe"
+	"github.com/kisrobot/gomerchant/tests"
 	"github.com/stripe/stripe-go/customer"
 )
 

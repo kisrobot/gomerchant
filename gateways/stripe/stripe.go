@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/qor/gomerchant"
+	"github.com/kisrobot/gomerchant"
 	stripe "github.com/stripe/stripe-go"
 	"github.com/stripe/stripe-go/charge"
 	"github.com/stripe/stripe-go/refund"
